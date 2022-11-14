@@ -92,7 +92,7 @@ h2{
 #tema2 .caixa{
    list-style-position: inside;
    columns:2;
-   list-style-type:'\1F916\'
+   list-style-type:'\1F916\00A0'
 }
 abbr{
    text-decoration: none;
@@ -105,7 +105,7 @@ abbr{
    margin: 20px -10px -10px -10px ;
 }
 #tema2{
-   background-color: #89fdace5;
+   background-color: #88ffabe5;
    padding: 0px 10px 05px;
    border-radius: 20px 20px 20px 20px;
    border-top: 1px;
