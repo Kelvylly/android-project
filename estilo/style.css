@@ -90,6 +90,7 @@ h2{
    font-family: 'android';
 }
 #tema2 .caixa{
+   display: inline-block;
    list-style-position: inside;
    columns:2;
    list-style-type:'\1F916\00A0'
