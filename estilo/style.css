@@ -89,7 +89,7 @@ h2{
    background-image: linear-gradient(to right, #78f58b, transparent);
    font-family: 'android';
 }
-aside .caixa{
+.tema2 .caixa{
    list-style-position: inside;
    columns:2;
    list-style-type:'\1F916\00A0'
