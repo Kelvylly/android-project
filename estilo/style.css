@@ -93,9 +93,8 @@ ul{
    list-style: none;
 }
 .caixa{
-   width: 100%;
+   width: 20%;
    margin: auto;
-   list-style-position: inside;
    text-align: left ;
    columns:2;
    list-style-type:'\1F916\00A0'
