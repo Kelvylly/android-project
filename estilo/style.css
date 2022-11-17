@@ -90,12 +90,23 @@ h2{
    font-family: 'android';
 }
 
+ul{
+   list-style: none;
+}
 .caixa{
+   width: 100%;
+   margin: auto;
    list-style-position: inside;
+   text-align: left ;
    columns:2;
    list-style-type:'\1F916\00A0'
    
 
+}
+li{
+
+      display: inline-block;
+      padding: 20px;   
 }
 abbr{
    text-decoration: none;
