@@ -107,6 +107,9 @@ abbr{
    border: 10px solid #014214;
    margin: 20px -10px -10px -10px ;
 }
+#rodape a{
+   color:white;
+}
 #tema2{
    background-color: #88fcabe5;
    border: 10px  solid #88fcabe8;
