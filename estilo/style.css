@@ -128,11 +128,7 @@ h3{
    border-radius: 10px 10px 0px 0px ;
    margin: auto -10px;
 }
-main img{
-   width: 100%;
-   display: inline-block;
 
-}
 main img#img{
    display: block;
    margin: auto;
